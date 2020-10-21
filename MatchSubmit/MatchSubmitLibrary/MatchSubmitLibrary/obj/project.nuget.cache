@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "M2I8CKk8ONZeAFKQeuEWiA0dqCiCXEtHPGsSeP4YTE3VrK5LzLw8NCG6RiviH5wYwCYndtJ1JU2I5D01srmxXA==",
+  "success": true,
+  "projectFilePath": "F:\\programs\\CR6ClassLibraries\\CR6Libraries\\MatchSubmit\\MatchSubmitLibrary\\MatchSubmitLibrary\\MatchSubmitLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
