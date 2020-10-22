@@ -1,0 +1,9 @@
+F:\programs\CR6ClassLibraries\CR6Libraries\DataAccess\DataAccessLibrary\DataAccessLibrary\bin\Release\netstandard2.1\DataAccessLibrary.deps.json
+F:\programs\CR6ClassLibraries\CR6Libraries\DataAccess\DataAccessLibrary\DataAccessLibrary\bin\Release\netstandard2.1\DataAccessLibrary.dll
+F:\programs\CR6ClassLibraries\CR6Libraries\DataAccess\DataAccessLibrary\DataAccessLibrary\bin\Release\netstandard2.1\DataAccessLibrary.pdb
+F:\programs\CR6ClassLibraries\CR6Libraries\DataAccess\DataAccessLibrary\DataAccessLibrary\obj\Release\netstandard2.1\DataAccessLibrary.AssemblyInfoInputs.cache
+F:\programs\CR6ClassLibraries\CR6Libraries\DataAccess\DataAccessLibrary\DataAccessLibrary\obj\Release\netstandard2.1\DataAccessLibrary.AssemblyInfo.cs
+F:\programs\CR6ClassLibraries\CR6Libraries\DataAccess\DataAccessLibrary\DataAccessLibrary\obj\Release\netstandard2.1\DataAccessLibrary.dll
+F:\programs\CR6ClassLibraries\CR6Libraries\DataAccess\DataAccessLibrary\DataAccessLibrary\obj\Release\netstandard2.1\DataAccessLibrary.pdb
+F:\programs\CR6ClassLibraries\CR6Libraries\DataAccess\DataAccessLibrary\DataAccessLibrary\bin\Release\netstandard2.1\DataAccessLibrary.xml
+F:\programs\CR6ClassLibraries\CR6Libraries\DataAccess\DataAccessLibrary\DataAccessLibrary\obj\Release\netstandard2.1\DataAccessLibrary.csproj.CoreCompileInputs.cache

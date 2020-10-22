@@ -1,0 +1,12 @@
+F:\programs\CR6ClassLibraries\CR6Libraries\MatchSubmit\MatchSubmitLibrary\MatchSubmitLibrary\bin\Debug\netstandard2.0\MatchSubmitLibrary.deps.json
+F:\programs\CR6ClassLibraries\CR6Libraries\MatchSubmit\MatchSubmitLibrary\MatchSubmitLibrary\bin\Debug\netstandard2.0\MatchSubmitLibrary.dll
+F:\programs\CR6ClassLibraries\CR6Libraries\MatchSubmit\MatchSubmitLibrary\MatchSubmitLibrary\bin\Debug\netstandard2.0\DataAccessLibrary.dll
+F:\programs\CR6ClassLibraries\CR6Libraries\MatchSubmit\MatchSubmitLibrary\MatchSubmitLibrary\bin\Debug\netstandard2.0\DataAccessLibrary.pdb
+F:\programs\CR6ClassLibraries\CR6Libraries\MatchSubmit\MatchSubmitLibrary\MatchSubmitLibrary\obj\Debug\netstandard2.0\MatchSubmitLibrary.csprojAssemblyReference.cache
+F:\programs\CR6ClassLibraries\CR6Libraries\MatchSubmit\MatchSubmitLibrary\MatchSubmitLibrary\obj\Debug\netstandard2.0\MatchSubmitLibrary.AssemblyInfoInputs.cache
+F:\programs\CR6ClassLibraries\CR6Libraries\MatchSubmit\MatchSubmitLibrary\MatchSubmitLibrary\obj\Debug\netstandard2.0\MatchSubmitLibrary.AssemblyInfo.cs
+F:\programs\CR6ClassLibraries\CR6Libraries\MatchSubmit\MatchSubmitLibrary\MatchSubmitLibrary\obj\Debug\netstandard2.0\MatchSubmitLibrary.csproj.CopyComplete
+F:\programs\CR6ClassLibraries\CR6Libraries\MatchSubmit\MatchSubmitLibrary\MatchSubmitLibrary\bin\Debug\netstandard2.0\MatchSubmitLibrary.pdb
+F:\programs\CR6ClassLibraries\CR6Libraries\MatchSubmit\MatchSubmitLibrary\MatchSubmitLibrary\obj\Debug\netstandard2.0\MatchSubmitLibrary.csproj.CoreCompileInputs.cache
+F:\programs\CR6ClassLibraries\CR6Libraries\MatchSubmit\MatchSubmitLibrary\MatchSubmitLibrary\obj\Debug\netstandard2.0\MatchSubmitLibrary.dll
+F:\programs\CR6ClassLibraries\CR6Libraries\MatchSubmit\MatchSubmitLibrary\MatchSubmitLibrary\obj\Debug\netstandard2.0\MatchSubmitLibrary.pdb

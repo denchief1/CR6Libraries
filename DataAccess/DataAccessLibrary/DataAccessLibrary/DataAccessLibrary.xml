@@ -1,0 +1,142 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DataAccessLibrary</name>
+    </assembly>
+    <members>
+        <member name="T:DataAccessLibrary.GenericRepository`1">
+            <summary>
+            This is the generic implemenation for the IGenericRepository.
+            </summary>
+            <typeparam name="T">Type of the Model that you would like the Repository to be.</typeparam>
+        </member>
+        <member name="F:DataAccessLibrary.GenericRepository`1.context">
+            <value>Injected DB context.</value>
+        </member>
+        <member name="F:DataAccessLibrary.GenericRepository`1.table">
+            <value>injected DB table.</value>
+        </member>
+        <member name="M:DataAccessLibrary.GenericRepository`1.#ctor(Microsoft.EntityFrameworkCore.DbContext)">
+            <summary>
+            Initializes a new instance of the <see cref="T:DataAccessLibrary.GenericRepository`1"/> class.
+            </summary>
+            <param name="context">none generic database context supplied.</param>
+        </member>
+        <member name="M:DataAccessLibrary.GenericRepository`1.GetAll">
+            <summary>
+            Get all of the model types in the db context.
+            </summary>
+            <returns>IEnumerable of the model type.</returns>
+        </member>
+        <member name="M:DataAccessLibrary.GenericRepository`1.GetByID(System.Object)">
+            <summary>
+            Get a specific instance of the model from the db by ID.
+            </summary>
+            <param name="id">ID of the object.</param>
+            <returns>instance of model.</returns>
+        </member>
+        <member name="M:DataAccessLibrary.GenericRepository`1.Where(System.Linq.Expressions.Expression{System.Func{`0,System.Boolean}})">
+            <summary>
+            Queryable search of the db context for a list of IEnumerables of the model type.
+            </summary>
+            <param name="predicate"> search paramter <c>Where(x => x.matchID == 1)</c>.</param>
+            <returns>IEnumerable of matching model instances.</returns>
+        </member>
+        <member name="M:DataAccessLibrary.GenericRepository`1.Add(`0)">
+            <summary>
+            Add an instance of the model to the DB.
+            </summary>
+            <param name="obj">Instance of the model.</param>
+        </member>
+        <member name="M:DataAccessLibrary.GenericRepository`1.AddRange(System.Collections.Generic.IEnumerable{`0})">
+            <summary>
+            Add a range of instances to the DB.
+            </summary>
+            <param name="objs">IEnumerable of the model.</param>
+        </member>
+        <member name="M:DataAccessLibrary.GenericRepository`1.Update(`0)">
+            <summary>
+            Update an existing instance within the DB.
+            </summary>
+            <param name="obj">Instance to update.</param>
+        </member>
+        <member name="M:DataAccessLibrary.GenericRepository`1.Remove(`0)">
+            <summary>
+            Remove an existing instance from the DB.
+            </summary>
+            <param name="obj">Instance to remove.</param>
+        </member>
+        <member name="M:DataAccessLibrary.GenericRepository`1.RemoveRange(System.Collections.Generic.IEnumerable{`0})">
+            <summary>
+            Remove a range of instances from the DB.
+            </summary>
+            <param name="objs">IEnumerable of instances to remove.</param>
+        </member>
+        <member name="M:DataAccessLibrary.GenericRepository`1.Dispose">
+            <summary>
+            Implementation of IDisposable.
+            </summary>
+        </member>
+        <member name="M:DataAccessLibrary.GenericRepository`1.SaveChanges">
+            <summary>
+            Save the changes made to the DB.
+            </summary>
+        </member>
+        <member name="T:DataAccessLibrary.IGenericRespository`1">
+            <summary>
+            Interface for a generic repoistory.
+            </summary>
+            <typeparam name="T">Type of Instance of the Repository.</typeparam>
+        </member>
+        <member name="M:DataAccessLibrary.IGenericRespository`1.GetAll">
+            <summary>
+            Get all of the model types in the db context.
+            </summary>
+            <returns>IEnumerable of the model type.</returns>
+        </member>
+        <member name="M:DataAccessLibrary.IGenericRespository`1.GetByID(System.Object)">
+            <summary>
+            Get a specific instance of the model from the db by ID.
+            </summary>
+            <param name="id">ID of the object.</param>
+            <returns>instance of model.</returns>
+        </member>
+        <member name="M:DataAccessLibrary.IGenericRespository`1.Where(System.Linq.Expressions.Expression{System.Func{`0,System.Boolean}})">
+            <summary>
+            Queryable search of the db context for a list of IEnumerables of the model type.
+            </summary>
+            <param name="predicate"> search paramter <c>Where(x => x.matchID == 1)</c>.</param>
+            <returns>IEnumerable of matching model instances.</returns>
+        </member>
+        <member name="M:DataAccessLibrary.IGenericRespository`1.Add(`0)">
+            <summary>
+            Add an instance of the model to the DB.
+            </summary>
+            <param name="obj">Instance of the model.</param>
+        </member>
+        <member name="M:DataAccessLibrary.IGenericRespository`1.AddRange(System.Collections.Generic.IEnumerable{`0})">
+            <summary>
+            Add a range of instances to the DB.
+            </summary>
+            <param name="objs">IEnumerable of the model.</param>
+        </member>
+        <member name="M:DataAccessLibrary.IGenericRespository`1.Update(`0)">
+            <summary>
+            Update an existing instance within the DB.
+            </summary>
+            <param name="obj">Instance to update.</param>
+        </member>
+        <member name="M:DataAccessLibrary.IGenericRespository`1.Remove(`0)">
+            <summary>
+            Remove an existing instance from the DB.
+            </summary>
+            <param name="obj">Instance to remove.</param>
+        </member>
+        <member name="M:DataAccessLibrary.IGenericRespository`1.RemoveRange(System.Collections.Generic.IEnumerable{`0})">
+            <summary>
+            Remove a range of instances from the DB.
+            </summary>
+            <param name="objs">IEnumerable of instances to remove.</param>
+        </member>
+    </members>
+</doc>

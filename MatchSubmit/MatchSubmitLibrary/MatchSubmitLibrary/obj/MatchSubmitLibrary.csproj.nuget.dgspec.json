@@ -5,7 +5,7 @@
   },
   "projects": {
     "F:\\programs\\CR6ClassLibraries\\CR6Libraries\\MatchSubmit\\MatchSubmitLibrary\\MatchSubmitLibrary\\MatchSubmitLibrary.csproj": {
-      "version": "1.0.0",
+      "version": "1.0.1",
       "restore": {
         "projectUniqueName": "F:\\programs\\CR6ClassLibraries\\CR6Libraries\\MatchSubmit\\MatchSubmitLibrary\\MatchSubmitLibrary\\MatchSubmitLibrary.csproj",
         "projectName": "MatchSubmitLibrary",
@@ -23,14 +23,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netstandard2.0"
+          "netstandard2.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "F:\\programs\\CR6ClassLibraries\\CR6Libraries\\DataAccess\\DataAccessLibrary\\DataAccessLibrary\\bin\\Release": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netstandard2.0": {
+          "netstandard2.1": {
             "projectReferences": {}
           }
         },
@@ -41,13 +42,19 @@
         }
       },
       "frameworks": {
-        "netstandard2.0": {
+        "netstandard2.1": {
           "dependencies": {
-            "NETStandard.Library": {
-              "suppressParent": "All",
+            "DataAccessLibrary": {
               "target": "Package",
-              "version": "[2.0.3, )",
-              "autoReferenced": true
+              "version": "[1.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.9, )"
             }
           },
           "imports": [
@@ -60,6 +67,11 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
         }
       }

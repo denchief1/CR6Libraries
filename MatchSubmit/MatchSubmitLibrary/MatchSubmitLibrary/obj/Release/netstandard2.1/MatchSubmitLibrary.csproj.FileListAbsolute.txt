@@ -1,0 +1,9 @@
+F:\programs\CR6ClassLibraries\CR6Libraries\MatchSubmit\MatchSubmitLibrary\MatchSubmitLibrary\bin\Release\netstandard2.1\MatchSubmitLibrary.deps.json
+F:\programs\CR6ClassLibraries\CR6Libraries\MatchSubmit\MatchSubmitLibrary\MatchSubmitLibrary\bin\Release\netstandard2.1\MatchSubmitLibrary.dll
+F:\programs\CR6ClassLibraries\CR6Libraries\MatchSubmit\MatchSubmitLibrary\MatchSubmitLibrary\bin\Release\netstandard2.1\MatchSubmitLibrary.pdb
+F:\programs\CR6ClassLibraries\CR6Libraries\MatchSubmit\MatchSubmitLibrary\MatchSubmitLibrary\obj\Release\netstandard2.1\MatchSubmitLibrary.csprojAssemblyReference.cache
+F:\programs\CR6ClassLibraries\CR6Libraries\MatchSubmit\MatchSubmitLibrary\MatchSubmitLibrary\obj\Release\netstandard2.1\MatchSubmitLibrary.AssemblyInfoInputs.cache
+F:\programs\CR6ClassLibraries\CR6Libraries\MatchSubmit\MatchSubmitLibrary\MatchSubmitLibrary\obj\Release\netstandard2.1\MatchSubmitLibrary.AssemblyInfo.cs
+F:\programs\CR6ClassLibraries\CR6Libraries\MatchSubmit\MatchSubmitLibrary\MatchSubmitLibrary\obj\Release\netstandard2.1\MatchSubmitLibrary.csproj.CoreCompileInputs.cache
+F:\programs\CR6ClassLibraries\CR6Libraries\MatchSubmit\MatchSubmitLibrary\MatchSubmitLibrary\obj\Release\netstandard2.1\MatchSubmitLibrary.dll
+F:\programs\CR6ClassLibraries\CR6Libraries\MatchSubmit\MatchSubmitLibrary\MatchSubmitLibrary\obj\Release\netstandard2.1\MatchSubmitLibrary.pdb
