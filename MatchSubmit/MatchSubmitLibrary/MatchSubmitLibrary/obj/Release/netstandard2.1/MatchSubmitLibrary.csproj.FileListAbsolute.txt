@@ -7,3 +7,12 @@ F:\programs\CR6ClassLibraries\CR6Libraries\MatchSubmit\MatchSubmitLibrary\MatchS
 F:\programs\CR6ClassLibraries\CR6Libraries\MatchSubmit\MatchSubmitLibrary\MatchSubmitLibrary\obj\Release\netstandard2.1\MatchSubmitLibrary.csproj.CoreCompileInputs.cache
 F:\programs\CR6ClassLibraries\CR6Libraries\MatchSubmit\MatchSubmitLibrary\MatchSubmitLibrary\obj\Release\netstandard2.1\MatchSubmitLibrary.dll
 F:\programs\CR6ClassLibraries\CR6Libraries\MatchSubmit\MatchSubmitLibrary\MatchSubmitLibrary\obj\Release\netstandard2.1\MatchSubmitLibrary.pdb
+E:\Code\CR6Libraries\CR6Libraries\MatchSubmit\MatchSubmitLibrary\MatchSubmitLibrary\bin\Release\netstandard2.1\MatchSubmitLibrary.deps.json
+E:\Code\CR6Libraries\CR6Libraries\MatchSubmit\MatchSubmitLibrary\MatchSubmitLibrary\bin\Release\netstandard2.1\MatchSubmitLibrary.dll
+E:\Code\CR6Libraries\CR6Libraries\MatchSubmit\MatchSubmitLibrary\MatchSubmitLibrary\bin\Release\netstandard2.1\MatchSubmitLibrary.pdb
+E:\Code\CR6Libraries\CR6Libraries\MatchSubmit\MatchSubmitLibrary\MatchSubmitLibrary\obj\Release\netstandard2.1\MatchSubmitLibrary.csprojAssemblyReference.cache
+E:\Code\CR6Libraries\CR6Libraries\MatchSubmit\MatchSubmitLibrary\MatchSubmitLibrary\obj\Release\netstandard2.1\MatchSubmitLibrary.AssemblyInfoInputs.cache
+E:\Code\CR6Libraries\CR6Libraries\MatchSubmit\MatchSubmitLibrary\MatchSubmitLibrary\obj\Release\netstandard2.1\MatchSubmitLibrary.AssemblyInfo.cs
+E:\Code\CR6Libraries\CR6Libraries\MatchSubmit\MatchSubmitLibrary\MatchSubmitLibrary\obj\Release\netstandard2.1\MatchSubmitLibrary.dll
+E:\Code\CR6Libraries\CR6Libraries\MatchSubmit\MatchSubmitLibrary\MatchSubmitLibrary\obj\Release\netstandard2.1\MatchSubmitLibrary.pdb
+E:\Code\CR6Libraries\CR6Libraries\MatchSubmit\MatchSubmitLibrary\MatchSubmitLibrary\obj\Release\netstandard2.1\MatchSubmitLibrary.csproj.CoreCompileInputs.cache

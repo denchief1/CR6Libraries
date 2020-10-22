@@ -1,20 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
   <metadata>
-    <id>MatchSubmitLibrary</id>
-    <version>1.0.1</version>
-    <authors>Jacob Harrand</authors>
+    <id>DataAccessLibrary</id>
+    <version>1.0.5</version>
+    <authors>DataAccessLibrary</authors>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Package Description</description>
     <dependencies>
       <group targetFramework=".NETStandard2.1">
-        <dependency id="DataAccessLibrary" version="1.0.5" exclude="Build,Analyzers" />
         <dependency id="Microsoft.EntityFrameworkCore" version="3.1.9" exclude="Build,Analyzers" />
         <dependency id="Microsoft.EntityFrameworkCore.SqlServer" version="3.1.9" exclude="Build,Analyzers" />
       </group>
     </dependencies>
   </metadata>
   <files>
-    <file src="E:\Code\CR6Libraries\CR6Libraries\MatchSubmit\MatchSubmitLibrary\MatchSubmitLibrary\bin\Release\netstandard2.1\MatchSubmitLibrary.dll" target="lib\netstandard2.1\MatchSubmitLibrary.dll" />
+    <file src="E:\Code\CR6Libraries\CR6Libraries\DataAccess\DataAccessLibrary\DataAccessLibrary\bin\Release\netstandard2.1\DataAccessLibrary.dll" target="lib\netstandard2.1\DataAccessLibrary.dll" />
   </files>
 </package>

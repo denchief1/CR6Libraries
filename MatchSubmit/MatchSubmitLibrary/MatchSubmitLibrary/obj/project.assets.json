@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     ".NETStandard,Version=v2.1": {
-      "DataAccessLibrary/1.0.4": {
+      "DataAccessLibrary/1.0.5": {
         "type": "package",
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "3.1.9",
@@ -604,6 +604,9 @@
             "rid": "win-x86"
           }
         }
+      },
+      "StyleCop.Analyzers/1.1.118": {
+        "type": "package"
       },
       "System.AppContext/4.3.0": {
         "type": "package",
@@ -1952,16 +1955,15 @@
     }
   },
   "libraries": {
-    "DataAccessLibrary/1.0.4": {
-      "sha512": "CMKnKuMc8uvA/CJOCUVEgg2iBejEh+LuGxk4nwKtcwfr7Ctg7sRiO0Ih1CdoCGA0lU0A0ZPVzPbcOBK7F77o/Q==",
+    "DataAccessLibrary/1.0.5": {
+      "sha512": "HXLOMYsAfQkkgX9mwda0WT1o1nJySCaSdmiiJF8xawLUNAJlEd7IGpd2mciRdsoAMG/j7pvU34cgK+BYuS2GJg==",
       "type": "package",
-      "path": "dataaccesslibrary/1.0.4",
+      "path": "dataaccesslibrary/1.0.5",
       "files": [
         ".nupkg.metadata",
-        "dataaccesslibrary.1.0.4.nupkg.sha512",
+        "dataaccesslibrary.1.0.5.nupkg.sha512",
         "dataaccesslibrary.nuspec",
-        "lib/netstandard2.1/DataAccessLibrary.dll",
-        "lib/netstandard2.1/DataAccessLibrary.xml"
+        "lib/netstandard2.1/DataAccessLibrary.dll"
       ]
     },
     "Microsoft.Bcl.AsyncInterfaces/1.1.1": {
@@ -2803,6 +2805,31 @@
         "runtimes/win-x86/native/sni.dll",
         "useSharedDesignerContext.txt",
         "version.txt"
+      ]
+    },
+    "StyleCop.Analyzers/1.1.118": {
+      "sha512": "Onx6ovGSqXSK07n/0eM3ZusiNdB6cIlJdabQhWGgJp3Vooy9AaLS/tigeybOJAobqbtggTamoWndz72JscZBvw==",
+      "type": "package",
+      "path": "stylecop.analyzers/1.1.118",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "THIRD-PARTY-NOTICES.txt",
+        "analyzers/dotnet/cs/StyleCop.Analyzers.CodeFixes.dll",
+        "analyzers/dotnet/cs/StyleCop.Analyzers.dll",
+        "analyzers/dotnet/cs/de-DE/StyleCop.Analyzers.resources.dll",
+        "analyzers/dotnet/cs/en-GB/StyleCop.Analyzers.resources.dll",
+        "analyzers/dotnet/cs/es-MX/StyleCop.Analyzers.resources.dll",
+        "analyzers/dotnet/cs/fr-FR/StyleCop.Analyzers.resources.dll",
+        "analyzers/dotnet/cs/pl-PL/StyleCop.Analyzers.resources.dll",
+        "analyzers/dotnet/cs/pt-BR/StyleCop.Analyzers.resources.dll",
+        "analyzers/dotnet/cs/ru-RU/StyleCop.Analyzers.resources.dll",
+        "stylecop.analyzers.1.1.118.nupkg.sha512",
+        "stylecop.analyzers.nuspec",
+        "tools/install.ps1",
+        "tools/uninstall.ps1"
       ]
     },
     "System.AppContext/4.3.0": {
@@ -6808,40 +6835,34 @@
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.1": [
-      "DataAccessLibrary >= 1.0.4",
+      "DataAccessLibrary >= 1.0.5",
       "Microsoft.EntityFrameworkCore >= 3.1.9",
-      "Microsoft.EntityFrameworkCore.SqlServer >= 3.1.9"
+      "Microsoft.EntityFrameworkCore.SqlServer >= 3.1.9",
+      "StyleCop.Analyzers >= 1.1.118"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Jacob\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\harranj\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.1",
     "restore": {
-      "projectUniqueName": "F:\\programs\\CR6ClassLibraries\\CR6Libraries\\MatchSubmit\\MatchSubmitLibrary\\MatchSubmitLibrary\\MatchSubmitLibrary.csproj",
+      "projectUniqueName": "E:\\Code\\CR6Libraries\\CR6Libraries\\MatchSubmit\\MatchSubmitLibrary\\MatchSubmitLibrary\\MatchSubmitLibrary.csproj",
       "projectName": "MatchSubmitLibrary",
-      "projectPath": "F:\\programs\\CR6ClassLibraries\\CR6Libraries\\MatchSubmit\\MatchSubmitLibrary\\MatchSubmitLibrary\\MatchSubmitLibrary.csproj",
-      "packagesPath": "C:\\Users\\Jacob\\.nuget\\packages\\",
-      "outputPath": "F:\\programs\\CR6ClassLibraries\\CR6Libraries\\MatchSubmit\\MatchSubmitLibrary\\MatchSubmitLibrary\\obj\\",
+      "projectPath": "E:\\Code\\CR6Libraries\\CR6Libraries\\MatchSubmit\\MatchSubmitLibrary\\MatchSubmitLibrary\\MatchSubmitLibrary.csproj",
+      "packagesPath": "C:\\Users\\harranj\\.nuget\\packages\\",
+      "outputPath": "E:\\Code\\CR6Libraries\\CR6Libraries\\MatchSubmit\\MatchSubmitLibrary\\MatchSubmitLibrary\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Jacob\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\harranj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.1"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "F:\\programs\\CR6ClassLibraries\\CR6Libraries\\DataAccess\\DataAccessLibrary\\DataAccessLibrary\\bin\\Release": {},
+        "E:\\Code\\CR6Libraries\\CR6Libraries\\DataAccess\\DataAccessLibrary\\DataAccessLibrary\\bin\\Release": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -6860,7 +6881,7 @@
         "dependencies": {
           "DataAccessLibrary": {
             "target": "Package",
-            "version": "[1.0.4, )"
+            "version": "[1.0.5, )"
           },
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",
@@ -6869,6 +6890,12 @@
           "Microsoft.EntityFrameworkCore.SqlServer": {
             "target": "Package",
             "version": "[3.1.9, )"
+          },
+          "StyleCop.Analyzers": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[1.1.118, )"
           }
         },
         "imports": [
@@ -6886,7 +6913,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

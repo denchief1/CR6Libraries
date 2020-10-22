@@ -1,32 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "F:\\programs\\CR6ClassLibraries\\CR6Libraries\\DataAccess\\DataAccessLibrary\\DataAccessLibrary\\DataAccessLibrary.csproj": {}
+    "E:\\Code\\CR6Libraries\\CR6Libraries\\DataAccess\\DataAccessLibrary\\DataAccessLibrary\\DataAccessLibrary.csproj": {}
   },
   "projects": {
-    "F:\\programs\\CR6ClassLibraries\\CR6Libraries\\DataAccess\\DataAccessLibrary\\DataAccessLibrary\\DataAccessLibrary.csproj": {
-      "version": "1.0.4",
+    "E:\\Code\\CR6Libraries\\CR6Libraries\\DataAccess\\DataAccessLibrary\\DataAccessLibrary\\DataAccessLibrary.csproj": {
+      "version": "1.0.5",
       "restore": {
-        "projectUniqueName": "F:\\programs\\CR6ClassLibraries\\CR6Libraries\\DataAccess\\DataAccessLibrary\\DataAccessLibrary\\DataAccessLibrary.csproj",
+        "projectUniqueName": "E:\\Code\\CR6Libraries\\CR6Libraries\\DataAccess\\DataAccessLibrary\\DataAccessLibrary\\DataAccessLibrary.csproj",
         "projectName": "DataAccessLibrary",
-        "projectPath": "F:\\programs\\CR6ClassLibraries\\CR6Libraries\\DataAccess\\DataAccessLibrary\\DataAccessLibrary\\DataAccessLibrary.csproj",
-        "packagesPath": "C:\\Users\\Jacob\\.nuget\\packages\\",
-        "outputPath": "F:\\programs\\CR6ClassLibraries\\CR6Libraries\\DataAccess\\DataAccessLibrary\\DataAccessLibrary\\obj\\",
+        "projectPath": "E:\\Code\\CR6Libraries\\CR6Libraries\\DataAccess\\DataAccessLibrary\\DataAccessLibrary\\DataAccessLibrary.csproj",
+        "packagesPath": "C:\\Users\\harranj\\.nuget\\packages\\",
+        "outputPath": "E:\\Code\\CR6Libraries\\CR6Libraries\\DataAccess\\DataAccessLibrary\\DataAccessLibrary\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Jacob\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\harranj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "E:\\Code\\CR6Libraries\\CR6Libraries\\DataAccess\\DataAccessLibrary\\DataAccessLibrary\\bin\\Release": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -79,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
