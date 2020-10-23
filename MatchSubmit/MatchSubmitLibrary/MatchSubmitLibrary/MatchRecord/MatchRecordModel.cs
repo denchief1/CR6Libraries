@@ -56,7 +56,7 @@ namespace MatchSubmitLibrary.MatchRecord
         public int? FPick { get; set; }
 
         /// <summary>
-        /// Gets or sets a value indicating the visibility of the record.
+        /// Gets or sets a value indicating whether the record is visible.
         /// </summary>
         public bool Visible { get; set; }
 
